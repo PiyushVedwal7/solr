@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "description": "Develop and maintain software applications and systems. Collaborate with cross-functional teams to define, design, and ship new features.",
+        "type": "full-time",
+        "location": "Bangalore, Karnataka",
+        "date_posted": "2024-10-01"
+    },
+    {
+        "id": 2,
+        "title": "Data Analyst",
+        "description": "Analyze large datasets to derive actionable insights. Create reports and visualizations to communicate findings effectively.",
+        "type": "part-time",
+        "location": "Mumbai, Maharashtra",
+        "date_posted": "2024-10-05"
+    },
+    {
+        "id": 3,
+        "title": "Web Developer",
+        "description": "Build and maintain responsive websites. Ensure compatibility with various browsers and devices.",
+        "type": "full-time",
+        "location": "Hyderabad, Telangana",
+        "date_posted": "2024-10-02"
+    },
+    {
+        "id": 4,
+        "title": "Project Manager",
+        "description": "Manage project timelines and deliverables. Work closely with stakeholders to ensure project success.",
+        "type": "remote",
+        "location": "Chennai, Tamil Nadu",
+        "date_posted": "2024-10-03"
+    },
+    {
+        "id": 5,
+        "title": "UX Designer",
+        "description": "Design user-friendly interfaces for web and mobile applications. Conduct user research to gather insights.",
+        "type": "full-time",
+        "location": "Pune, Maharashtra",
+        "date_posted": "2024-10-04"
+    },
+    {
+        "id": 6,
+        "title": "Systems Administrator",
+        "description": "Maintain and support IT infrastructure. Monitor system performance and troubleshoot issues.",
+        "type": "contract",
+        "location": "Noida, Uttar Pradesh",
+        "date_posted": "2024-10-06"
+    },
+    {
+        "id": 7,
+        "title": "Data Scientist",
+        "description": "Utilize statistical methods to analyze data and generate useful business insights. Create predictive models.",
+        "type": "full-time",
+        "location": "Gurgaon, Haryana",
+        "date_posted": "2024-10-07"
+    },
+    {
+        "id": 8,
+        "title": "Marketing Specialist",
+        "description": "Develop and implement marketing strategies. Monitor and analyze market trends to improve sales.",
+        "type": "full-time",
+        "location": "Ahmedabad, Gujarat",
+        "date_posted": "2024-10-08"
+    },
+    {
+        "id": 9,
+        "title": "Product Owner",
+        "description": "Oversee the development of products from conception to launch. Collaborate with stakeholders to define product vision.",
+        "type": "remote",
+        "location": "Jaipur, Rajasthan",
+        "date_posted": "2024-10-09"
+    },
+    {
+        "id": 10,
+        "title": "DevOps Engineer",
+        "description": "Implement and manage CI/CD pipelines. Work with development teams to ensure smooth deployments.",
+        "type": "full-time",
+        "location": "Kolkata, West Bengal",
+        "date_posted": "2024-10-10"
+    },
+    {
+        "id": 11,
+        "title": "Quality Assurance Engineer",
+        "description": "Design and execute test plans for software products. Ensure quality standards are met before deployment.",
+        "type": "contract",
+        "location": "Remote",
+        "date_posted": "2024-10-11"
+    },
+    {
+        "id": 12,
+        "title": "Business Analyst",
+        "description": "Gather and analyze business requirements. Develop documentation and communicate findings to stakeholders.",
+        "type": "full-time",
+        "location": "Bangalore, Karnataka",
+        "date_posted": "2024-10-12"
+    },
+    {
+        "id": 13,
+        "title": "Network Engineer",
+        "description": "Design and implement network solutions. Monitor network performance and troubleshoot issues.",
+        "type": "full-time",
+        "location": "Hyderabad, Telangana",
+        "date_posted": "2024-10-13"
+    },
+    {
+        "id": 14,
+        "title": "Content Writer",
+        "description": "Create engaging content for blogs, websites, and social media. Collaborate with the marketing team to align content with strategy.",
+        "type": "part-time",
+        "location": "Remote",
+        "date_posted": "2024-10-14"
+    },
+    {
+        "id": 15,
+        "title": "Technical Support Specialist",
+        "description": "Provide technical assistance to users. Troubleshoot hardware and software issues and guide users through solutions.",
+        "type": "full-time",
+        "location": "Delhi, India",
+        "date_posted": "2024-10-15"
+    },
+    {
+        "id": 16,
+        "title": "Sales Representative",
+        "description": "Engage with clients to understand their needs and sell appropriate solutions. Achieve sales targets and build customer relationships.",
+        "type": "full-time",
+        "location": "Mumbai, Maharashtra",
+        "date_posted": "2024-10-16"
+    },
+    {
+        "id": 17,
+        "title": "HR Manager",
+        "description": "Oversee HR activities and ensure compliance with regulations. Manage recruitment, employee relations, and performance management.",
+        "type": "full-time",
+        "location": "Bangalore, Karnataka",
+        "date_posted": "2024-10-17"
+    },
+    {
+        "id": 18,
+        "title": "Graphic Designer",
+        "description": "Create visual concepts and designs for print and digital media. Work closely with marketing to develop brand strategies.",
+        "type": "contract",
+        "location": "Remote",
+        "date_posted": "2024-10-18"
+    },
+    {
+        "id": 19,
+        "title": "Cloud Engineer",
+        "description": "Design and manage cloud infrastructure. Implement security measures and optimize cloud performance.",
+        "type": "full-time",
+        "location": "Pune, Maharashtra",
+        "date_posted": "2024-10-19"
+    },
+    {
+        "id": 20,
+        "title": "SEO Specialist",
+        "description": "Optimize website content for search engines. Conduct keyword research and analyze performance metrics.",
+        "type": "part-time",
+        "location": "Remote",
+        "date_posted": "2024-10-20"
+    },
+    {
+        "id": 21,
+        "title": "Mobile App Developer",
+        "description": "Design and develop mobile applications for Android and iOS platforms. Collaborate with product teams to enhance user experience.",
+        "type": "full-time",
+        "location": "Chennai, Tamil Nadu",
+        "date_posted": "2024-10-21"
+    },
+    {
+        "id": 22,
+        "title": "Cybersecurity Analyst",
+        "description": "Monitor and protect IT infrastructure from cyber threats. Conduct security assessments and implement best practices.",
+        "type": "contract",
+        "location": "Gurgaon, Haryana",
+        "date_posted": "2024-10-22"
+    },
+    {
+        "id": 23,
+        "title": "Database Administrator",
+        "description": "Manage and maintain database systems. Ensure data security, integrity, and availability.",
+        "type": "full-time",
+        "location": "Bangalore, Karnataka",
+        "date_posted": "2024-10-23"
+    },
+    {
+        "id": 24,
+        "title": "System Analyst",
+        "description": "Analyze and design information systems. Provide recommendations for system improvements.",
+        "type": "full-time",
+        "location": "Hyderabad, Telangana",
+        "date_posted": "2024-10-24"
+    },
+    {
+        "id": 25,
+        "title": "Business Development Executive",
+        "description": "Identify new business opportunities and build relationships with potential clients. Achieve sales goals and targets.",
+        "type": "full-time",
+        "location": "Mumbai, Maharashtra",
+        "date_posted": "2024-10-25"
+    },
+    {
+        "id": 26,
+        "title": "Customer Service Executive",
+        "description": "Handle customer inquiries and resolve issues. Provide information about products and services.",
+        "type": "full-time",
+        "location": "Delhi, India",
+        "date_posted": "2024-10-26"
+    },
+    {
+        "id": 27,
+        "title": "Research Analyst",
+        "description": "Conduct research and analysis on various market trends. Prepare reports and presentations for stakeholders.",
+        "type": "part-time",
+        "location": "Remote",
+        "date_posted": "2024-10-27"
+    },
+    {
+        "id": 28,
+        "title": "Electrical Engineer",
+        "description": "Design and develop electrical systems and components. Collaborate with teams to improve system designs.",
+        "type": "full-time",
+        "location": "Chennai, Tamil Nadu",
+        "date_posted": "2024-10-28"
+    },
+    {
+        "id": 29,
+        "title": "Mechanical Engineer",
+        "description": "Design and develop mechanical systems. Conduct feasibility studies and assist with project management.",
+        "type": "full-time",
+        "location": "Pune, Maharashtra",
+        "date_posted": "2024-10-29"
+    },
+    {
+        "id": 30,
+        "title": "Civil Engineer",
+        "description": "Plan and oversee construction projects. Ensure compliance with safety regulations and building codes.",
+        "type": "full-time",
+        "location": "Bangalore, Karnataka",
+        "date_posted": "2024-10-30"
+    },
+    {
+        "id": 31,
+        "title": "Content Marketing Manager",
+        "description": "Develop and execute content marketing strategies. Manage a team of writers and designers.",
+        "type": "full-time",
+        "location": "Delhi, India",
+        "date_posted": "2024-10-31"
+    },
+    {
+        "id": 32,
+        "title": "IT Consultant",
+        "description": "Provide IT consulting services to improve client business processes. Analyze IT systems and recommend improvements.",
+        "type": "contract",
+        "location": "Remote",
+        "date_posted": "2024-11-01"
+    },
+    {
+        "id": 33,
+        "title": "Business Intelligence Analyst",
+        "description": "Analyze business data to improve decision-making. Develop dashboards and reports for stakeholders.",
+        "type": "full-time",
+        "location": "Mumbai, Maharashtra",
+        "date_posted": "2024-11-02"
+    },
+    {
+        "id": 34,
+        "title": "Finance Manager",
+        "description": "Oversee financial operations and ensure compliance with regulations. Manage budgeting and forecasting processes.",
+        "type": "full-time",
+        "location": "Bangalore, Karnataka",
+        "date_posted": "2024-11-03"
+    },
+    {
+        "id": 35,
+        "title": "Supply Chain Manager",
+        "description": "Manage supply chain operations to ensure efficiency. Collaborate with vendors and monitor inventory levels.",
+        "type": "full-time",
+        "location": "Gurgaon, Haryana",
+        "date_posted": "2024-11-04"
+    },
+    {
+        "id": 36,
+        "title": "Operations Manager",
+        "description": "Oversee daily operations and ensure quality standards. Develop processes to improve operational efficiency.",
+        "type": "full-time",
+        "location": "Hyderabad, Telangana",
+        "date_posted": "2024-11-05"
+    },
+    {
+        "id": 37,
+        "title": "Accountant",
+        "description": "Prepare financial statements and reports. Manage accounts payable and receivable.",
+        "type": "full-time",
+        "location": "Noida, Uttar Pradesh",
+        "date_posted": "2024-11-06"
+    },
+    {
+        "id": 38,
+        "title": "SEO Analyst",
+        "description": "Analyze website performance and optimize for search engines. Conduct competitor analysis and research keywords.",
+        "type": "full-time",
+        "location": "Chennai, Tamil Nadu",
+        "date_posted": "2024-11-07"
+    },
+    {
+        "id": 39,
+        "title": "Graphic Artist",
+        "description": "Create artwork and illustrations for various media. Collaborate with marketing and design teams.",
+        "type": "contract",
+        "location": "Bangalore, Karnataka",
+        "date_posted": "2024-11-08"
+    },
+    {
+        "id": 40,
+        "title": "Business Consultant",
+        "description": "Advise businesses on strategies for growth. Conduct market analysis and provide actionable recommendations.",
+        "type": "contract",
+        "location": "Remote",
+        "date_posted": "2024-11-09"
+    },
+    {
+        "id": 41,
+        "title": "Product Marketing Manager",
+        "description": "Develop marketing strategies for product launches. Collaborate with sales and product teams to achieve goals.",
+        "type": "full-time",
+        "location": "Mumbai, Maharashtra",
+        "date_posted": "2024-11-10"
+    },
+    {
+        "id": 42,
+        "title": "Administrative Assistant",
+        "description": "Provide administrative support to the team. Manage schedules, communications, and office supplies.",
+        "type": "part-time",
+        "location": "Delhi, India",
+        "date_posted": "2024-11-11"
+    },
+    {
+        "id": 43,
+        "title": "E-commerce Manager",
+        "description": "Oversee online sales strategies and manage product listings. Analyze market trends and customer behavior.",
+        "type": "full-time",
+        "location": "Gurgaon, Haryana",
+        "date_posted": "2024-11-12"
+    },
+    {
+        "id": 44,
+        "title": "Video Editor",
+        "description": "Edit video footage for promotional materials and social media. Collaborate with content creators to deliver high-quality videos.",
+        "type": "contract",
+        "location": "Remote",
+        "date_posted": "2024-11-13"
+    },
+    {
+        "id": 45,
+        "title": "App Tester",
+        "description": "Test mobile applications for functionality and user experience. Report bugs and provide feedback for improvements.",
+        "type": "full-time",
+        "location": "Bangalore, Karnataka",
+        "date_posted": "2024-11-14"
+    },
+    {
+        "id": 46,
+        "title": "Event Coordinator",
+        "description": "Plan and organize corporate events and functions. Manage logistics and coordinate with vendors.",
+        "type": "full-time",
+        "location": "Mumbai, Maharashtra",
+        "date_posted": "2024-11-15"
+    },
+    {
+        "id": 47,
+        "title": "Social Media Manager",
+        "description": "Develop and manage social media strategies. Create engaging content and analyze performance metrics.",
+        "type": "part-time",
+        "location": "Delhi, India",
+        "date_posted": "2024-11-16"
+    },
+    {
+        "id": 48,
+        "title": "Online Tutor",
+        "description": "Provide online tutoring sessions for students in various subjects. Develop personalized learning plans.",
+        "type": "remote",
+        "location": "Hyderabad, Telangana",
+        "date_posted": "2024-11-17"
+    },
+    {
+        "id": 49,
+        "title": "Research Scientist",
+        "description": "Conduct scientific research and experiments. Analyze results and prepare reports for publication.",
+        "type": "full-time",
+        "location": "Pune, Maharashtra",
+        "date_posted": "2024-11-18"
+    },
+    {
+        "id": 50,
+        "title": "Telemarketing Executive",
+        "description": "Make outbound calls to potential customers. Promote products and services to generate leads.",
+        "type": "full-time",
+        "location": "Delhi, India",
+        "date_posted": "2024-11-19"
+    }
+]

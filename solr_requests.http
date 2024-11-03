@@ -1,0 +1,15 @@
+curl -X POST -H "Content-Type: application/xml" --data-binary ' 
+<add>
+    <doc>
+        <field name="id">1</field>
+        <field name="title">First Document</field>
+        <field name="content">This is the content of the first document.</field>
+        <field name="created">2024-10-29T10:00:00Z</field>
+    </doc>
+    <doc>
+        <field name="id">2</field>
+        <field name="title">Second Document</field>
+        <field name="content">Content of the second document.</field>
+        <field name="created">2024-10-29T11:00:00Z</field>
+    </doc>
+</add>' http://localhost:8983/solr/mycollection/update?commit=true
